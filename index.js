@@ -139,4 +139,4 @@ message.channel.send({ embed: exampleEmbed });
 });
 
 
-client.login('Nzg5NzcxODExMDU4MzUyMTQ5.X926UQ.IUfkSMDXjh3OSwzDQBvB9HpKvT4'); // Process 5 : Login The Bot
+client.login('TOken'); // Process 5 : Login The Bot
