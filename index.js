@@ -3,7 +3,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const stock = require('finance.io')
-
+require('dotenv').config()
 // When The Bot Is Ready
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
